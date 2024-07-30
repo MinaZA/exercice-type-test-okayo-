@@ -7,7 +7,7 @@ Pour l'exercice 1, vous trouverez mon modèle de données relationnel dans le do
 
 Pour l'exercice 2, vous trouverez mon modèle de données relationnel dans le dossier exercice 2.
 
-# Note exercice 2
+# Note exercice 2 en Flask
 
 ## explication du code rapidement
 
