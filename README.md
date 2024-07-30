@@ -3,7 +3,7 @@
 Pour l'exercice 1, vous trouverez mon modèle de données relationnel dans le dossier exercice 1.
 
 
-# Exercice 2 2 en Flask
+# Exercice 2 (Flask)
 
 Pour l'exercice 2, vous le trouverez dans le dossier exercice 2.
 
