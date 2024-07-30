@@ -3,11 +3,11 @@
 Pour l'exercice 1, vous trouverez mon modèle de données relationnel dans le dossier exercice 1.
 
 
-# Exercice 2
+# Exercice 2 2 en Flask
 
-Pour l'exercice 2, vous trouverez mon modèle de données relationnel dans le dossier exercice 2.
+Pour l'exercice 2, vous le trouverez dans le dossier exercice 2.
 
-# Note exercice 2 en Flask
+# Note exercice
 
 ## explication du code rapidement
 
